@@ -43,19 +43,21 @@ function ContactForm() {
 
   return (
     <section>
+      <h1>DISPLAY ONLY! DOES NOT ACTUALLY FUNCTION!</h1>
       <h1 data-testid="h1tag">Contact me</h1>
       <form id="contact-form" onSubmit={handleSubmit}>
-        <div>
-          <label htmlFor="name">Name:</label>
-          <input type="text" name="name" defaultValue={name} onBlur={handleChange} />
+
+      <div>
+          <label for="inline_field" htmlFor="name">Name:</label>
+          <input type="name" name="name" id="inline_field" class="nes-input is-success" defaultValue={name} onBlur={handleChange} />
         </div>
         <div>
-          <label htmlFor="email">Email address:</label>
-          <input type="email" name="email" defaultValue={email} onBlur={handleChange} />
+          <label for="inline_field" htmlFor="email">Email address:</label>
+          <input type="email" name="email" id="inline_field" class="nes-input is-success" defaultValue={email} onBlur={handleChange} />
         </div>
         <div>
-          <label htmlFor="message">Message:</label>
-          <textarea name="message" rows="5" defaultValue={message} onBlur={handleChange} />
+          <label for="inline_field" htmlFor="message">Message:</label>
+          <textarea name="message" rows="5"id="inline_field" class="nes-input is-success" defaultValue={message} onBlur={handleChange} />
         </div>
         {errorMessage && (
           <div>
@@ -63,7 +65,7 @@ function ContactForm() {
           </div>
         )}
         <button data-testid="button" type="submit">Submit</button>
-      </form>
+      </form><br/>
     </section>
   );
 }

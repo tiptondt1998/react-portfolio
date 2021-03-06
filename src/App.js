@@ -4,6 +4,7 @@ import About from "./components/About";
 import Nav from "./components/Nav";
 import Contact from './components/Contact';
 import Resume from "./components/Resume";
+import "nes.css/css/nes.min.css";
 
 const Page = ({name}) => {
   switch(name){
@@ -19,10 +20,11 @@ function App() {
 
   return(
     <div>
-      <Nav handlePageChange ={handlePageChange} />
+     
       <div>
         <Page name={currentPage} />
-      </div>
+      </div> 
+      <Nav handlePageChange ={handlePageChange} />
     </div>
   )
 }

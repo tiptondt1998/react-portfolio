@@ -1,21 +1,24 @@
 import React from 'react';
 import about from "../../App.css"
+import "nes.css/css/nes.min.css";
 function About() {
   return (
-    <section className="my-5">
+    <section>
       <h1 id="about">About Me</h1>
-      <div className="my-2">
-        <img src="../../assets/img/profile-picture.JPG"></img>
-        <p>
-        Quality focused self-motivated and committed team player with demonstrated ability in maintaining IT systems
+        <img class="is-centered" src="../../assets/img/profile-picture.JPG"></img>
+
+      <div class="nes-container with-title is-centered">
+  <p class="title">Dylan Tipton</p>
+  <p>       
+ Quality focused self-motivated and committed team player with demonstrated ability in maintaining IT systems
 in both client-server, stand-alone environment, handling escalated issues, providing training to new employees
 and offering assistance to computer system users with regards to issues in hardware, software or networks,
 maintaining and upgrading systems, conducting research and providing cost analysis data setting. Detail-oriented
 professional with highly professional attitude, problem solving, strong leadership, relationship-building skills and
 ability to perform well in a team. Looking for an opportunity in a dynamic organization where my skills will be
-fully utilized.
-        </p>
-      </div>
+fully utilized.</p>
+</div>
+
     </section>
   );
 }
