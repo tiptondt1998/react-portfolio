@@ -4,6 +4,7 @@ import About from "./components/About";
 import Nav from "./components/Nav";
 import Contact from './components/Contact';
 import Resume from "./components/Resume";
+import Projects from "./components/projects";
 import "nes.css/css/nes.min.css";
 
 const Page = ({name}) => {
@@ -11,6 +12,7 @@ const Page = ({name}) => {
     case 'About': return <About />;
     case 'Resume': return <Resume />;
     case 'Contact': return <Contact />;
+    case 'Projects': return <Projects />
   }
 }
 
@@ -24,7 +26,9 @@ function App() {
       <div>
         <Page name={currentPage} />
       </div> 
+      <div id="nav">
       <Nav handlePageChange ={handlePageChange} />
+      </div>
     </div>
   )
 }

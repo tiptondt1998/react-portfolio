@@ -1,12 +1,11 @@
 import React, { useEffect } from 'react';
-import contactForm from "../Contact";
 import { capitalizeFirstLetter } from '../../utils/helpers';
 
 function Nav( {handlePageChange})  {
 return(
 <header>
   <nav>
-    <ul>
+    <ul align="center">
       <li class="nes-btn" href="#"
       onClick={() => {
         handlePageChange("About");
@@ -26,6 +25,12 @@ return(
       }}>
         Contact
      </li>
+     <li class="nes-btn" href="#"
+      onClick={() => {
+        handlePageChange("Projects");
+      }}>
+        Projects
+      </li>
     </ul>
   </nav>
 </header>
