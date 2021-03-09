@@ -4,7 +4,7 @@ function About() {
   return (
     <section>
       <h1 id="about" align="center">About Me</h1>
-        <img class="is-centered" src="../../assets/img/profile-picture.JPG"></img>
+        <img class="is-centered" src="../../assets/img/profile-picture.JPG"/>
 
       <div class="nes-container with-title is-centered">
   <p class="title">Dylan Tipton</p>
