@@ -19,7 +19,7 @@ return(
       }}>
         Resume
         </li>
-      {/* <li class="nes-btn" href="#"
+       {/* <li class="nes-btn" href="#"
       onClick={() => {
         handlePageChange("Contact");
       }}>
