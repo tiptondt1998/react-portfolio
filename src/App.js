@@ -11,7 +11,7 @@ const Page = ({name}) => {
   switch(name){
     case 'About': return <About />;
     case 'Resume': return <Resume />;
-    case 'Contact': return <Contact />;
+  //  case 'Contact': return <Contact />;
     case 'Projects': return <Projects />
   }
 }
