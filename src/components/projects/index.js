@@ -7,7 +7,8 @@ function Projects(){
        <div class="nes-container with-title is-centered">
        <p class="title">Projects</p>
       <p>
-      <img src="../../assets/project_images/doorman.JPG"/>      
+      <a href="../../assets/project_images/doorman.JPG">CritterTails</a>      
+      <br/>
       <a href="http://gentle-hollows-60962.herokuapp.com/login">Doorman</a>
       <br/>
       <img src="../../assets/project_images/gameSearch.JPG"/>
@@ -16,6 +17,8 @@ function Projects(){
       <img src="../../assets/project_images/weatherApp.JPG"/>
       <a href="https://tiptondt1998.github.io/WeatherApp/">Weather App</a>
       </p>
+      <br/>
+
       </div>
       </section>
       );
