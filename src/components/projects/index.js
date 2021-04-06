@@ -7,7 +7,7 @@ function Projects(){
        <div class="nes-container with-title is-centered">
        <p class="title">Projects</p>
       <p>
-      <a href="https://www.crittertails.herokuapp.com">CritterTails</a>      
+      <a href="http://crittertails.herokuapp.com/">CritterTails</a>      
       <br/>
       <a href="http://gentle-hollows-60962.herokuapp.com/login">Doorman</a>
       <br/>
