@@ -22,13 +22,12 @@ function App() {
 
   return(
     <div>
-     
+          <div id="nav">
+      <Nav handlePageChange ={handlePageChange} />
+      </div>
       <div>
         <Page name={currentPage} />
       </div> 
-      <div id="nav">
-      <Nav handlePageChange ={handlePageChange} />
-      </div>
     </div>
   )
 }

@@ -58,7 +58,6 @@ and PostgreSQL
   Utilized Spring Framework and REST APIs to deliver projects within stated deadlines
   </li>
 </ul>
-     <a href="https://drive.google.com/file/d/1kUBKerd6S4g0EK-83kNxylgL2Kh14U4h/view?usp=sharing">Full resume here</a>
       </p>
 </div>
 </section>
