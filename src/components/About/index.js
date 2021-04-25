@@ -23,7 +23,7 @@ fully utilized. <br/> Willing to relocate anywhere in the continental United Sta
 <p>
   Programming Languages: Java 8, JavaScript, LISP, SQL(all variations)
   <br/>
-  Technologies: MongoDB, HTML, CSS, Kali Linux, MERN, REACT, AWS, SQLite, Express, NodeJS, Apache Tomcat, Heroku
+  Technologies: MongoDB, HTML, CSS, Kali Linux, MERN, REACT, AWS, SQLite, Express, NodeJS, Apache Tomcat, Heroku, OWASP Attack Proxy, Zenmap
 </p>
 </div>
 </section>
