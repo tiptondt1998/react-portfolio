@@ -1,10 +1,12 @@
 import React from 'react';
-
+import "../../App.css";
 function Resume(){
 
     return(
 <section>
+ 
 <div class="nes-container with-title is-centered">
+ <img src="https://i.postimg.cc/qMwrXJ9g/Dylan-Tipton-Resume-1.png"/>
 <p class="title">Work Experience</p>
       <p>
      
