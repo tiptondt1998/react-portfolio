@@ -7,10 +7,15 @@ function Resume(){
  
 <div class="nes-container with-title is-centered">
 <p class="title">Work Experience</p>
-      <p>
-     
+    <p>
+    <h1>Patch Tech - React Developer (backend)</h1>
+    <h3>August 2021 - Present</h3>
+    <ul>
+      <li>Implemented Stripe API for subscription services</li>s
+      <li></li>
+    </ul>
      <h1>Premier Parking - Screener</h1>
-     <h3>October 2020 - Present</h3>
+     <h3>October 2020 - March 2021</h3>
      <ul>
        <li>
        Greeted incoming guests to assess needs and monitor behaviours for signs of suspicious activities. Answered
@@ -20,22 +25,10 @@ function Resume(){
        Provided customer services to patients, family and friends to provide courteous efficient visit experience.
        Ensured that customers were treated with the highest level of courtesy and professionalism.
        </li>
+       <li>
+         Created Doorman application to increase consistency in enforcement of visitation policy.
+       </li>
      </ul>
-
-      <h1>Aisin - Machine Operator</h1>
-      <h3>July 2020 - September 2020</h3>
-      <ul>
-        <li>
-        Operated, maintained and performed preventative maintenance on all machines in the department.
-Monitored machine operation and provide specification upgrade to system and/or machinery to ensure
-proper threading that matches with the quality constraints of the company.
-        </li>
-        <li>
-        Operated machine to maintain quality and quantity with a strong sense of accountability and high standards.
-Performed machine set-up based on specifications, trouble-shooting problems and coming up with
-solutions.
-        </li>
-      </ul>
 
 <h1>Science Applications International Corporation(SAIC) - Help Desk Representative</h1>
 <h3>February 2020 - June 2020</h3>
