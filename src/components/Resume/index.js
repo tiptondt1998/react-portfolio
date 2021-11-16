@@ -8,8 +8,8 @@ function Resume(){
 <div class="nes-container with-title is-centered">
 <p class="title">Work Experience</p>
     <p>
-    <h1>Patch Tech - React Developer (backend)</h1>
-    <h3>August 2021 - Present</h3>
+    <h1>Patch the Producer - React Developer (backend)</h1>
+    <h3>June 2021 - October 2021</h3>
     <ul>
       <li>Implemented Stripe API for subscription services</li>s
       <li></li>
