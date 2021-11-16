@@ -4,9 +4,16 @@ function Projects(){
 
     return (
       <section>
+
        <div class="nes-container with-title is-centered">
        <p class="title">Projects</p>
       <p id='projects'>
+      <section id="patch">
+      <a href='https://www.patchtheproducer.com/'>Patch the Producer</a> is an online marketplace where users can purchase and sell beats.
+      My responsibility on this project was the implementation of the Stripe API to allow payment for indvidual beats or for monthly to yearly
+      subscriptions.
+      </section>
+      <br/>
       <section id="critter"> 
         <a href='http://crittertails.herokuapp.com'>Critter</a> is a social media website for your pets. All you have to do is sign up,
         and you'll be able to interact with other users as your own pet. <a href="http://github.com/craig5117/critter"> Github </a>
