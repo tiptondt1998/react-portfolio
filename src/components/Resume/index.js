@@ -8,11 +8,27 @@ function Resume(){
 <div class="nes-container with-title is-centered">
 <p class="title">Work Experience</p>
     <p>
+    <h1>Concordance Health Solutions - Websphere Commerce Developer</h1>
+    <h3>March 2022 - current</h3>
+    <ul>
+    <li>Operated in team-based, Scrum environment to accomplish objectives quickly and efficiently.</li>
+    <li>Implemented safeguards to prevent controlled items from being purchased without authorization.</li>
+    <li>Exercised expertise in SQL and Java, as well as front-end technologies such as React.js to improve application performance.</li>
+    </ul>
+    <h1>Cognizant - Oracle Consultant</h1>
+    <h3>September 2021 - current</h3>
+    <ul>
+      <li>Contracted through Pyramid Consulting.</li>
+      <li>Audited data migration between servers on a weekly basis for accuracy.</li>
+      <li>Maintained accuracy when reviewing and reconciling general ledger.</li>
+      <li>Coordinated testing and validation procedures through software development lifecycle.</li>
+    </ul>
     <h1>Patch the Producer - React Developer (backend)</h1>
     <h3>June 2021 - October 2021</h3>
     <ul>
-      <li>Implemented Stripe API for subscription services</li>s
-      <li></li>
+      <li>Implemented Stripe API for subscription services</li>
+      <li>Attended weekly scrum meetings to discuss project progress and for code mergers.</li>
+      <li>Exercised experience with React.js and acquired skills in Firebase.</li>
     </ul>
      <h1>Premier Parking - Screener</h1>
      <h3>October 2020 - March 2021</h3>
